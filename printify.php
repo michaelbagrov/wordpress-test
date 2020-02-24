@@ -1,7 +1,8 @@
 <?php
-/**
- * Plugin Name: Printify Shipping Method
- */
+/*
+Plugin Name: Printify
+Description: Embeded Printify app
+*/
 if ( ! defined('ABSPATH')) exit;
 
 require 'plugin-update-checker/plugin-update-checker.php';
